@@ -1,0 +1,6 @@
+framework module AMCoreAudio {
+  umbrella header "AMCoreAudio.h"
+
+  export *
+  module * { export * }
+}
